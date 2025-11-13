@@ -1,4 +1,4 @@
-# 👨‍💻 Md. Khair
+# 👨‍💻 MD. ABUL KHAIR
 
 ### 🚀 Software Engineer | Full Stack Developer | Problem Solver  
 
