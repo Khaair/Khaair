@@ -47,19 +47,11 @@ I love building clean, scalable, and high-performance web applications while ens
 
 ---
 
-## 📊 GitHub Stats
-
-![Khair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaair&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaair&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 🌐 **GitHub:** [https://github.com/Khaair](https://github.com/Khaair)  
-📧 **Email:** *(add your professional email here)*  
-💼 *(optional: LinkedIn profile link)*  
+📧 **Email:** khair.cse.iu@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/khairul-islam-khair-iu/
 
 ---
 
