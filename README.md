@@ -43,7 +43,7 @@ I love building clean, scalable, and high-performance web applications while ens
 
 ## 🧮 Problem Solving
 - Strong understanding of **Data Structures & Algorithms**  
-- Solved numerous problems in **C/C++** and **JavaScript** across several **online judges**  
+- Solved 500+ problems in **C/C++** and **JavaScript** in several **online judges**  
 
 ---
 
