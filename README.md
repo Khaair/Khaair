@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Full Stack Developer | Problem Solver  
 
-As a skilled Software Engineer, I specialize in both **frontend development** using **JavaScript** and **ReactJS**, as well as **backend development** using **NodeJS**, **ExpressJS**, and **PHP Laravel**.  
+As a skilled Software Engineer(4+ years), I specialize in both **frontend development** using **JavaScript** and **ReactJS**, as well as **backend development** using **NodeJS**, **ExpressJS**, and **PHP Laravel**.  
 
 I love building clean, scalable, and high-performance web applications while ensuring great user experience and robust backend logic.  
 
